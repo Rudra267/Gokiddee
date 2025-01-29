@@ -381,7 +381,7 @@ h2.card_title {
 Top Header Area CSS
 =================================================*/
 .top-header-area {
-  background: linear-gradient(180deg, rgba(49,78,105,1) 0%, rgba(103,171,234,1) 100%);
+ background: #4f85b7;
   padding-top: 10px;
   padding-bottom: 10px;
 }
